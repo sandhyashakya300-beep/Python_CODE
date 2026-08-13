@@ -1,4 +1,0 @@
-import re
-
-pattern = r''
-text = """The First Vision is the debut video album by American singer Mariah Carey, released by Sony Music Video on January 22, 1991. It is a collection of music videos, live performances, and film footage detailing the development and promotion of Carey's first studio album Mariah Carey (1990). Music videos of three Mariah Carey singles – "Vision of Love", "Love Takes Time", and "Someday" – are featured, as are snippets of the future singles "I Don't Wanna Cry" and "There's Got to Be a Way". The collection presents Carey performing at New York City's Club Tatou and behind-the-scenes footage of her rehearsing for appearances on Saturday Night Live and It's Showtime at the Apollo. During an interview segment, Carey answers questions about her life and music. """
